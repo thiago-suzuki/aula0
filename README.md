@@ -32,12 +32,7 @@ $ npm install
 
 <br>
 
-## Rodar o Frontend
+## Rodar o Projeto
 ```bash
 $ npm run start
 ```
-
-<br>
-
-## Link do Deploy
-https://hashtaurante.vercel.app/
